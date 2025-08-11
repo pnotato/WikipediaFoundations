@@ -1,0 +1,943 @@
+run_id,steps_total,page_title,page_url,stop_reason,links_away
+1,18,Manchester Evening Chronicle,https://en.wikipedia.org/wiki/Manchester_Evening_Chronicle,reached_philosophy,18
+1,18,"Sir Edward Hulton, 1st Baronet","https://en.wikipedia.org/wiki/Sir_Edward_Hulton,_1st_Baronet",reached_philosophy,17
+1,18,British people,https://en.wikipedia.org/wiki/British_people,reached_philosophy,16
+1,18,British Overseas Territories,https://en.wikipedia.org/wiki/British_Overseas_Territories,reached_philosophy,15
+1,18,Dependent territory,https://en.wikipedia.org/wiki/Dependent_territory,reached_philosophy,14
+1,18,Territory,https://en.wikipedia.org/wiki/Territory,reached_philosophy,13
+1,18,International relations,https://en.wikipedia.org/wiki/International_relations,reached_philosophy,12
+1,18,War,https://en.wikipedia.org/wiki/War,reached_philosophy,11
+1,18,State (polity),https://en.wikipedia.org/wiki/State_(polity),reached_philosophy,10
+1,18,Politics,https://en.wikipedia.org/wiki/Politics,reached_philosophy,9
+1,18,Decision-making,https://en.wikipedia.org/wiki/Decision-making,reached_philosophy,8
+1,18,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+1,18,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+1,18,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+1,18,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+1,18,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+1,18,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+1,18,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+1,18,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+2,22,%C3%89mile Cornic,https://en.wikipedia.org/wiki/%C3%89mile_Cornic,reached_philosophy,22
+2,22,Fencing,https://en.wikipedia.org/wiki/Fencing,reached_philosophy,21
+2,22,Combat sport,https://en.wikipedia.org/wiki/Combat_sport,reached_philosophy,20
+2,22,Contact sport,https://en.wikipedia.org/wiki/Contact_sport,reached_philosophy,19
+2,22,Sport,https://en.wikipedia.org/wiki/Sport,reached_philosophy,18
+2,22,Physical activity,https://en.wikipedia.org/wiki/Physical_activity,reached_philosophy,17
+2,22,Skeletal muscle,https://en.wikipedia.org/wiki/Skeletal_muscle,reached_philosophy,16
+2,22,Vertebrate,https://en.wikipedia.org/wiki/Vertebrate,reached_philosophy,15
+2,22,Animal,https://en.wikipedia.org/wiki/Animal,reached_philosophy,14
+2,22,Multicellular,https://en.wikipedia.org/wiki/Multicellular,reached_philosophy,13
+2,22,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+2,22,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+2,22,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+2,22,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+2,22,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+2,22,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+2,22,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+2,22,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+2,22,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+2,22,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+2,22,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+2,22,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+2,22,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+3,19,Niels Sigfred Nebelong,https://en.wikipedia.org/wiki/Niels_Sigfred_Nebelong,reached_philosophy,19
+3,19,Denmark,https://en.wikipedia.org/wiki/Denmark,reached_philosophy,18
+3,19,Nordic countries,https://en.wikipedia.org/wiki/Nordic_countries,reached_philosophy,17
+3,19,Cultural region,https://en.wikipedia.org/wiki/Cultural_region,reached_philosophy,16
+3,19,Anthropology,https://en.wikipedia.org/wiki/Anthropology,reached_philosophy,15
+3,19,Human,https://en.wikipedia.org/wiki/Human,reached_philosophy,14
+3,19,Species,https://en.wikipedia.org/wiki/Species,reached_philosophy,13
+3,19,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+3,19,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+3,19,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+3,19,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+3,19,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+3,19,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+3,19,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+3,19,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+3,19,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+3,19,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+3,19,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+3,19,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+3,19,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+4,22,Whale Island (Alaska),https://en.wikipedia.org/wiki/Whale_Island_(Alaska),reached_philosophy,22
+4,22,Kodiak Archipelago,https://en.wikipedia.org/wiki/Kodiak_Archipelago,reached_philosophy,21
+4,22,Archipelago,https://en.wikipedia.org/wiki/Archipelago,reached_philosophy,20
+4,22,Aegean Islands,https://en.wikipedia.org/wiki/Aegean_Islands,reached_philosophy,19
+4,22,Aegean Sea,https://en.wikipedia.org/wiki/Aegean_Sea,reached_philosophy,18
+4,22,Mediterranean Sea,https://en.wikipedia.org/wiki/Mediterranean_Sea,reached_philosophy,17
+4,22,Sea,https://en.wikipedia.org/wiki/Sea,reached_philosophy,16
+4,22,Body of water,https://en.wikipedia.org/wiki/Body_of_water,reached_philosophy,15
+4,22,Water,https://en.wikipedia.org/wiki/Water,reached_philosophy,14
+4,22,Inorganic compound,https://en.wikipedia.org/wiki/Inorganic_compound,reached_philosophy,13
+4,22,Chemical compound,https://en.wikipedia.org/wiki/Chemical_compound,reached_philosophy,12
+4,22,Chemical substance,https://en.wikipedia.org/wiki/Chemical_substance,reached_philosophy,11
+4,22,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+4,22,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+4,22,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+4,22,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+4,22,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+4,22,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+4,22,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+4,22,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+4,22,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+4,22,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+4,22,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+5,12,Kami-Sugaya Station,https://en.wikipedia.org/wiki/Kami-Sugaya_Station,reached_philosophy,12
+5,12,Railway station,https://en.wikipedia.org/wiki/Railway_station,reached_philosophy,11
+5,12,Rail transport,https://en.wikipedia.org/wiki/Rail_transport,reached_philosophy,10
+5,12,Means of transport,https://en.wikipedia.org/wiki/Means_of_transport,reached_philosophy,9
+5,12,Transport,https://en.wikipedia.org/wiki/Transport,reached_philosophy,8
+5,12,Motion,https://en.wikipedia.org/wiki/Motion,reached_philosophy,7
+5,12,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+5,12,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+5,12,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+5,12,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+5,12,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+5,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+5,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+6,15,Debtors%27 Prison Relief Act of 1792,https://en.wikipedia.org/wiki/Debtors%27_Prison_Relief_Act_of_1792,reached_philosophy,15
+6,15,United States Statutes at Large,https://en.wikipedia.org/wiki/United_States_Statutes_at_Large,reached_philosophy,14
+6,15,Act of Congress,https://en.wikipedia.org/wiki/Act_of_Congress,reached_philosophy,13
+6,15,Statute,https://en.wikipedia.org/wiki/Statute,reached_philosophy,12
+6,15,Legislature,https://en.wikipedia.org/wiki/Legislature,reached_philosophy,11
+6,15,Deliberative assembly,https://en.wikipedia.org/wiki/Deliberative_assembly,reached_philosophy,10
+6,15,Collective,https://en.wikipedia.org/wiki/Collective,reached_philosophy,9
+6,15,Cooperative,https://en.wikipedia.org/wiki/Cooperative,reached_philosophy,8
+6,15,Autonomy,https://en.wikipedia.org/wiki/Autonomy,reached_philosophy,7
+6,15,Developmental psychology,https://en.wikipedia.org/wiki/Developmental_psychology,reached_philosophy,6
+6,15,Science,https://en.wikipedia.org/wiki/Science,reached_philosophy,5
+6,15,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+6,15,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+6,15,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+6,15,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+6,15,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+7,15,Raffles House,https://en.wikipedia.org/wiki/Raffles_House,reached_philosophy,15
+7,15,Fort Canning Hill,https://en.wikipedia.org/wiki/Fort_Canning_Hill,reached_philosophy,14
+7,15,Singapore,https://en.wikipedia.org/wiki/Singapore,reached_philosophy,13
+7,15,Island country,https://en.wikipedia.org/wiki/Island_country,reached_philosophy,12
+7,15,Country,https://en.wikipedia.org/wiki/Country,reached_philosophy,11
+7,15,Earth,https://en.wikipedia.org/wiki/Earth,reached_philosophy,10
+7,15,Planet,https://en.wikipedia.org/wiki/Planet,reached_philosophy,9
+7,15,Hydrostatic equilibrium,https://en.wikipedia.org/wiki/Hydrostatic_equilibrium,reached_philosophy,8
+7,15,Fluid mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,reached_philosophy,7
+7,15,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+7,15,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+7,15,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+7,15,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+7,15,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+7,15,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+7,15,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+8,17,Axl Rotten,https://en.wikipedia.org/wiki/Axl_Rotten,reached_philosophy,17
+8,17,Ring name,https://en.wikipedia.org/wiki/Ring_name,reached_philosophy,16
+8,17,Stage name,https://en.wikipedia.org/wiki/Stage_name,reached_philosophy,15
+8,17,Pseudonym,https://en.wikipedia.org/wiki/Pseudonym,reached_philosophy,14
+8,17,Anonymity,https://en.wikipedia.org/wiki/Anonymity,reached_philosophy,13
+8,17,Charity (virtue),https://en.wikipedia.org/wiki/Charity_(virtue),reached_philosophy,12
+8,17,Christian theology,https://en.wikipedia.org/wiki/Christian_theology,reached_philosophy,11
+8,17,Theology,https://en.wikipedia.org/wiki/Theology,reached_philosophy,10
+8,17,Religious belief,https://en.wikipedia.org/wiki/Religious_belief,reached_philosophy,9
+8,17,Attitude (psychology),https://en.wikipedia.org/wiki/Attitude_(psychology),reached_philosophy,8
+8,17,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+8,17,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+8,17,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+8,17,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+8,17,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+8,17,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+8,17,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+8,17,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+9,22,2020%E2%80%9321 Guadeloupe Division of Honor,https://en.wikipedia.org/wiki/2020%E2%80%9321_Guadeloupe_Division_of_Honor,reached_philosophy,22
+9,22,Guadeloupe Division of Honor,https://en.wikipedia.org/wiki/Guadeloupe_Division_of_Honor,reached_philosophy,21
+9,22,Association football,https://en.wikipedia.org/wiki/Association_football,reached_philosophy,20
+9,22,Team sport,https://en.wikipedia.org/wiki/Team_sport,reached_philosophy,19
+9,22,Sport,https://en.wikipedia.org/wiki/Sport,reached_philosophy,18
+9,22,Physical activity,https://en.wikipedia.org/wiki/Physical_activity,reached_philosophy,17
+9,22,Skeletal muscle,https://en.wikipedia.org/wiki/Skeletal_muscle,reached_philosophy,16
+9,22,Vertebrate,https://en.wikipedia.org/wiki/Vertebrate,reached_philosophy,15
+9,22,Animal,https://en.wikipedia.org/wiki/Animal,reached_philosophy,14
+9,22,Multicellular,https://en.wikipedia.org/wiki/Multicellular,reached_philosophy,13
+9,22,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+9,22,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+9,22,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+9,22,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+9,22,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+9,22,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+9,22,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+9,22,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+9,22,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+9,22,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+9,22,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+9,22,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+9,22,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+10,14,Room 8 (film),https://en.wikipedia.org/wiki/Room_8_(film),reached_philosophy,14
+10,14,Bombay Sapphire,https://en.wikipedia.org/wiki/Bombay_Sapphire,reached_philosophy,13
+10,14,Gin,https://en.wikipedia.org/wiki/Gin,reached_philosophy,12
+10,14,Liquor,https://en.wikipedia.org/wiki/Liquor,reached_philosophy,11
+10,14,Alcoholic drinks,https://en.wikipedia.org/wiki/Alcoholic_drinks,reached_philosophy,10
+10,14,Drink,https://en.wikipedia.org/wiki/Drink,reached_philosophy,9
+10,14,Liquid,https://en.wikipedia.org/wiki/Liquid,reached_philosophy,8
+10,14,State of matter,https://en.wikipedia.org/wiki/State_of_matter,reached_philosophy,7
+10,14,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+10,14,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+10,14,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+10,14,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+10,14,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+10,14,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+10,14,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+11,14,Caccobius vulcanus,https://en.wikipedia.org/wiki/Caccobius_vulcanus,reached_philosophy,14
+11,14,Dynastinae,https://en.wikipedia.org/wiki/Dynastinae,reached_philosophy,13
+11,14,Subfamily,https://en.wikipedia.org/wiki/Subfamily,reached_philosophy,12
+11,14,Biological classification,https://en.wikipedia.org/wiki/Biological_classification,reached_philosophy,11
+11,14,Biology,https://en.wikipedia.org/wiki/Biology,reached_philosophy,10
+11,14,Scientific study,https://en.wikipedia.org/wiki/Scientific_study,reached_philosophy,9
+11,14,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+11,14,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+11,14,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+11,14,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+11,14,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+11,14,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+11,14,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+11,14,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+11,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+12,22,Bloom (software),https://en.wikipedia.org/wiki/Bloom_(software),reached_philosophy,22
+12,22,Generative music,https://en.wikipedia.org/wiki/Generative_music,reached_philosophy,21
+12,22,Brian Eno,https://en.wikipedia.org/wiki/Brian_Eno,reached_philosophy,20
+12,22,Suffolk,https://en.wikipedia.org/wiki/Suffolk,reached_philosophy,19
+12,22,Ceremonial county,https://en.wikipedia.org/wiki/Ceremonial_county,reached_philosophy,18
+12,22,England,https://en.wikipedia.org/wiki/England,reached_philosophy,17
+12,22,Countries of the United Kingdom,https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom,reached_philosophy,16
+12,22,United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom,reached_philosophy,15
+12,22,Northwestern Europe,https://en.wikipedia.org/wiki/Northwestern_Europe,reached_philosophy,14
+12,22,Subregion,https://en.wikipedia.org/wiki/Subregion,reached_philosophy,13
+12,22,Region,https://en.wikipedia.org/wiki/Region,reached_philosophy,12
+12,22,Geography,https://en.wikipedia.org/wiki/Geography,reached_philosophy,11
+12,22,Earth,https://en.wikipedia.org/wiki/Earth,reached_philosophy,10
+12,22,Planet,https://en.wikipedia.org/wiki/Planet,reached_philosophy,9
+12,22,Hydrostatic equilibrium,https://en.wikipedia.org/wiki/Hydrostatic_equilibrium,reached_philosophy,8
+12,22,Fluid mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,reached_philosophy,7
+12,22,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+12,22,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+12,22,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+12,22,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+12,22,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+12,22,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+12,22,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+13,9,Enos Luther Brookes,https://en.wikipedia.org/wiki/Enos_Luther_Brookes,reached_philosophy,9
+13,9,Tuskegee University,https://en.wikipedia.org/wiki/Tuskegee_University,reached_philosophy,8
+13,9,Private university,https://en.wikipedia.org/wiki/Private_university,reached_philosophy,7
+13,9,Higher education,https://en.wikipedia.org/wiki/Higher_education,reached_philosophy,6
+13,9,Educational level,https://en.wikipedia.org/wiki/Educational_level,reached_philosophy,5
+13,9,Formal learning,https://en.wikipedia.org/wiki/Formal_learning,reached_philosophy,4
+13,9,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+13,9,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+13,9,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+13,9,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+14,16,Honours Committee,https://en.wikipedia.org/wiki/Honours_Committee,reached_philosophy,16
+14,16,Cabinet Office,https://en.wikipedia.org/wiki/Cabinet_Office,reached_philosophy,15
+14,16,Departments of the Government of the United Kingdom,https://en.wikipedia.org/wiki/Departments_of_the_Government_of_the_United_Kingdom,reached_philosophy,14
+14,16,Government of the United Kingdom,https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom,reached_philosophy,13
+14,16,Central government,https://en.wikipedia.org/wiki/Central_government,reached_philosophy,12
+14,16,Unitary state,https://en.wikipedia.org/wiki/Unitary_state,reached_philosophy,11
+14,16,State (polity),https://en.wikipedia.org/wiki/State_(polity),reached_philosophy,10
+14,16,Politics,https://en.wikipedia.org/wiki/Politics,reached_philosophy,9
+14,16,Decision-making,https://en.wikipedia.org/wiki/Decision-making,reached_philosophy,8
+14,16,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+14,16,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+14,16,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+14,16,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+14,16,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+14,16,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+14,16,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+14,16,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+15,22,Mark Harper (cricketer),https://en.wikipedia.org/wiki/Mark_Harper_(cricketer),reached_philosophy,22
+15,22,Cricket,https://en.wikipedia.org/wiki/Cricket,reached_philosophy,21
+15,22,Bat-and-ball games,https://en.wikipedia.org/wiki/Bat-and-ball_games,reached_philosophy,20
+15,22,Playing field,https://en.wikipedia.org/wiki/Playing_field,reached_philosophy,19
+15,22,Sport,https://en.wikipedia.org/wiki/Sport,reached_philosophy,18
+15,22,Physical activity,https://en.wikipedia.org/wiki/Physical_activity,reached_philosophy,17
+15,22,Skeletal muscle,https://en.wikipedia.org/wiki/Skeletal_muscle,reached_philosophy,16
+15,22,Vertebrate,https://en.wikipedia.org/wiki/Vertebrate,reached_philosophy,15
+15,22,Animal,https://en.wikipedia.org/wiki/Animal,reached_philosophy,14
+15,22,Multicellular,https://en.wikipedia.org/wiki/Multicellular,reached_philosophy,13
+15,22,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+15,22,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+15,22,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+15,22,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+15,22,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+15,22,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+15,22,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+15,22,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+15,22,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+15,22,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+15,22,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+15,22,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+15,22,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+16,12,B.L. Stryker,https://en.wikipedia.org/wiki/B.L._Stryker,reached_philosophy,12
+16,12,American Broadcasting Company,https://en.wikipedia.org/wiki/American_Broadcasting_Company,reached_philosophy,11
+16,12,Commercial broadcasting,https://en.wikipedia.org/wiki/Commercial_broadcasting,reached_philosophy,10
+16,12,Broadcasting,https://en.wikipedia.org/wiki/Broadcasting,reached_philosophy,9
+16,12,Data distribution,https://en.wikipedia.org/wiki/Data_distribution,reached_philosophy,8
+16,12,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+16,12,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+16,12,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+16,12,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+16,12,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+16,12,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+16,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+16,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+17,20,Mojtame-ye Meskuni Aram,https://en.wikipedia.org/wiki/Mojtame-ye_Meskuni_Aram,reached_philosophy,20
+17,20,Esfivard-e Shurab Rural District,https://en.wikipedia.org/wiki/Esfivard-e_Shurab_Rural_District,reached_philosophy,19
+17,20,Central District (Sari County),https://en.wikipedia.org/wiki/Central_District_(Sari_County),reached_philosophy,18
+17,20,Sari County,https://en.wikipedia.org/wiki/Sari_County,reached_philosophy,17
+17,20,Mazandaran province,https://en.wikipedia.org/wiki/Mazandaran_province,reached_philosophy,16
+17,20,Provinces of Iran,https://en.wikipedia.org/wiki/Provinces_of_Iran,reached_philosophy,15
+17,20,Iran,https://en.wikipedia.org/wiki/Iran,reached_philosophy,14
+17,20,West Asia,https://en.wikipedia.org/wiki/West_Asia,reached_philosophy,13
+17,20,Asia,https://en.wikipedia.org/wiki/Asia,reached_philosophy,12
+17,20,Continent,https://en.wikipedia.org/wiki/Continent,reached_philosophy,11
+17,20,Convention (norm),https://en.wikipedia.org/wiki/Convention_(norm),reached_philosophy,10
+17,20,Social norm,https://en.wikipedia.org/wiki/Social_norm,reached_philosophy,9
+17,20,Acceptance,https://en.wikipedia.org/wiki/Acceptance,reached_philosophy,8
+17,20,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+17,20,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+17,20,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+17,20,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+17,20,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+17,20,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+17,20,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+17,20,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+18,13,List of Naga politicians,https://en.wikipedia.org/wiki/List_of_Naga_politicians,reached_philosophy,13
+18,13,Naga people,https://en.wikipedia.org/wiki/Naga_people,reached_philosophy,12
+18,13,Tibeto-Burman languages,https://en.wikipedia.org/wiki/Tibeto-Burman_languages,reached_philosophy,11
+18,13,Sinitic languages,https://en.wikipedia.org/wiki/Sinitic_languages,reached_philosophy,10
+18,13,Language group,https://en.wikipedia.org/wiki/Language_group,reached_philosophy,9
+18,13,Language,https://en.wikipedia.org/wiki/Language,reached_philosophy,8
+18,13,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+18,13,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+18,13,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+18,13,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+18,13,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+18,13,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+18,13,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+18,13,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+19,21,Martin O%27Brien (footballer),https://en.wikipedia.org/wiki/Martin_O%27Brien_(footballer),reached_philosophy,21
+19,21,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,reached_philosophy,20
+19,21,Contact sport,https://en.wikipedia.org/wiki/Contact_sport,reached_philosophy,19
+19,21,Sport,https://en.wikipedia.org/wiki/Sport,reached_philosophy,18
+19,21,Physical activity,https://en.wikipedia.org/wiki/Physical_activity,reached_philosophy,17
+19,21,Skeletal muscle,https://en.wikipedia.org/wiki/Skeletal_muscle,reached_philosophy,16
+19,21,Vertebrate,https://en.wikipedia.org/wiki/Vertebrate,reached_philosophy,15
+19,21,Animal,https://en.wikipedia.org/wiki/Animal,reached_philosophy,14
+19,21,Multicellular,https://en.wikipedia.org/wiki/Multicellular,reached_philosophy,13
+19,21,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+19,21,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+19,21,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+19,21,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+19,21,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+19,21,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+19,21,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+19,21,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+19,21,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+19,21,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+19,21,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+19,21,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+19,21,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+20,14,Graham Hunter,https://en.wikipedia.org/wiki/Graham_Hunter,reached_philosophy,14
+20,14,United States,https://en.wikipedia.org/wiki/United_States,reached_philosophy,13
+20,14,North America,https://en.wikipedia.org/wiki/North_America,reached_philosophy,12
+20,14,Continent,https://en.wikipedia.org/wiki/Continent,reached_philosophy,11
+20,14,Convention (norm),https://en.wikipedia.org/wiki/Convention_(norm),reached_philosophy,10
+20,14,Social norm,https://en.wikipedia.org/wiki/Social_norm,reached_philosophy,9
+20,14,Acceptance,https://en.wikipedia.org/wiki/Acceptance,reached_philosophy,8
+20,14,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+20,14,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+20,14,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+20,14,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+20,14,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+20,14,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+20,14,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+20,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+21,11,List of founders of religious traditions,https://en.wikipedia.org/wiki/List_of_founders_of_religious_traditions,reached_philosophy,11
+21,11,Historical figure,https://en.wikipedia.org/wiki/Historical_figure,reached_philosophy,10
+21,11,History,https://en.wikipedia.org/wiki/History,reached_philosophy,9
+21,11,Past,https://en.wikipedia.org/wiki/Past,reached_philosophy,8
+21,11,Spacetime#Definitions,https://en.wikipedia.org/wiki/Spacetime#Definitions,reached_philosophy,7
+21,11,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+21,11,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+21,11,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+21,11,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+21,11,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+21,11,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+21,11,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+22,15,Out of Control (TV series),https://en.wikipedia.org/wiki/Out_of_Control_(TV_series),reached_philosophy,15
+22,15,Sketch comedy,https://en.wikipedia.org/wiki/Sketch_comedy,reached_philosophy,14
+22,15,Scene (drama),https://en.wikipedia.org/wiki/Scene_(drama),reached_philosophy,13
+22,15,Drama,https://en.wikipedia.org/wiki/Drama,reached_philosophy,12
+22,15,Mode (literature),https://en.wikipedia.org/wiki/Mode_(literature),reached_philosophy,11
+22,15,Literature,https://en.wikipedia.org/wiki/Literature,reached_philosophy,10
+22,15,Writing,https://en.wikipedia.org/wiki/Writing,reached_philosophy,9
+22,15,Language,https://en.wikipedia.org/wiki/Language,reached_philosophy,8
+22,15,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+22,15,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+22,15,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+22,15,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+22,15,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+22,15,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+22,15,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+22,15,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+23,9,1987 Baylor Bears football team,https://en.wikipedia.org/wiki/1987_Baylor_Bears_football_team,reached_philosophy,9
+23,9,Baylor University,https://en.wikipedia.org/wiki/Baylor_University,reached_philosophy,8
+23,9,Private university,https://en.wikipedia.org/wiki/Private_university,reached_philosophy,7
+23,9,Higher education,https://en.wikipedia.org/wiki/Higher_education,reached_philosophy,6
+23,9,Educational level,https://en.wikipedia.org/wiki/Educational_level,reached_philosophy,5
+23,9,Formal learning,https://en.wikipedia.org/wiki/Formal_learning,reached_philosophy,4
+23,9,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+23,9,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+23,9,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+23,9,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+24,10,Haunted Collector,https://en.wikipedia.org/wiki/Haunted_Collector,reached_philosophy,10
+24,10,Reality series,https://en.wikipedia.org/wiki/Reality_series,reached_philosophy,9
+24,10,Genre,https://en.wikipedia.org/wiki/Genre,reached_philosophy,8
+24,10,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+24,10,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+24,10,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+24,10,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+24,10,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+24,10,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+24,10,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+24,10,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+25,15,1987 in Latin music,https://en.wikipedia.org/wiki/1987_in_Latin_music,reached_philosophy,15
+25,15,Latin music (genre),https://en.wikipedia.org/wiki/Latin_music_(genre),reached_philosophy,14
+25,15,Music industry,https://en.wikipedia.org/wiki/Music_industry,reached_philosophy,13
+25,15,Songwriter,https://en.wikipedia.org/wiki/Songwriter,reached_philosophy,12
+25,15,Musical composition,https://en.wikipedia.org/wiki/Musical_composition,reached_philosophy,11
+25,15,Originality,https://en.wikipedia.org/wiki/Originality,reached_philosophy,10
+25,15,Replica,https://en.wikipedia.org/wiki/Replica,reached_philosophy,9
+25,15,Facsimile,https://en.wikipedia.org/wiki/Facsimile,reached_philosophy,8
+25,15,Book,https://en.wikipedia.org/wiki/Book,reached_philosophy,7
+25,15,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+25,15,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+25,15,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+25,15,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+25,15,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+25,15,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+25,15,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+26,9,Schinia suetus,https://en.wikipedia.org/wiki/Schinia_suetus,reached_philosophy,9
+26,9,Moth,https://en.wikipedia.org/wiki/Moth,reached_philosophy,8
+26,9,Lepidoptera,https://en.wikipedia.org/wiki/Lepidoptera,reached_philosophy,7
+26,9,Order (biology),https://en.wikipedia.org/wiki/Order_(biology),reached_philosophy,6
+26,9,Hierarchical,https://en.wikipedia.org/wiki/Hierarchical,reached_philosophy,5
+26,9,Architecture,https://en.wikipedia.org/wiki/Architecture,reached_philosophy,4
+26,9,Planning,https://en.wikipedia.org/wiki/Planning,reached_philosophy,3
+26,9,Process,https://en.wikipedia.org/wiki/Process,reached_philosophy,2
+26,9,Action (philosophy),https://en.wikipedia.org/wiki/Action_(philosophy),reached_philosophy,1
+26,9,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+27,13,1991 Boston City Council election,https://en.wikipedia.org/wiki/1991_Boston_City_Council_election,reached_philosophy,13
+27,13,Boston City Council,https://en.wikipedia.org/wiki/Boston_City_Council,reached_philosophy,12
+27,13,Legislative,https://en.wikipedia.org/wiki/Legislative,reached_philosophy,11
+27,13,Deliberative assembly,https://en.wikipedia.org/wiki/Deliberative_assembly,reached_philosophy,10
+27,13,Collective,https://en.wikipedia.org/wiki/Collective,reached_philosophy,9
+27,13,Cooperative,https://en.wikipedia.org/wiki/Cooperative,reached_philosophy,8
+27,13,Autonomy,https://en.wikipedia.org/wiki/Autonomy,reached_philosophy,7
+27,13,Developmental psychology,https://en.wikipedia.org/wiki/Developmental_psychology,reached_philosophy,6
+27,13,Science,https://en.wikipedia.org/wiki/Science,reached_philosophy,5
+27,13,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+27,13,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+27,13,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+27,13,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+27,13,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+28,14,Galeorhinus cuvieri,https://en.wikipedia.org/wiki/Galeorhinus_cuvieri,reached_philosophy,14
+28,14,Extinction,https://en.wikipedia.org/wiki/Extinction,reached_philosophy,13
+28,14,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+28,14,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+28,14,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+28,14,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+28,14,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+28,14,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+28,14,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+28,14,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+28,14,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+28,14,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+28,14,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+28,14,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+28,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+29,9,"Granite City, Wisconsin","https://en.wikipedia.org/wiki/Granite_City,_Wisconsin",reached_philosophy,9
+29,9,Ghost town,https://en.wikipedia.org/wiki/Ghost_town,reached_philosophy,8
+29,9,Flood,https://en.wikipedia.org/wiki/Flood,reached_philosophy,7
+29,9,Tide,https://en.wikipedia.org/wiki/Tide,reached_philosophy,6
+29,9,Sea level,https://en.wikipedia.org/wiki/Sea_level,reached_philosophy,5
+29,9,Mean,https://en.wikipedia.org/wiki/Mean,reached_philosophy,4
+29,9,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+29,9,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+29,9,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+29,9,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+30,18,Takeshi Iwamoto,https://en.wikipedia.org/wiki/Takeshi_Iwamoto,reached_philosophy,18
+30,18,Ice hockey,https://en.wikipedia.org/wiki/Ice_hockey,reached_philosophy,17
+30,18,Ice skates,https://en.wikipedia.org/wiki/Ice_skates,reached_philosophy,16
+30,18,Ice,https://en.wikipedia.org/wiki/Ice,reached_philosophy,15
+30,18,Water,https://en.wikipedia.org/wiki/Water,reached_philosophy,14
+30,18,Inorganic compound,https://en.wikipedia.org/wiki/Inorganic_compound,reached_philosophy,13
+30,18,Chemical compound,https://en.wikipedia.org/wiki/Chemical_compound,reached_philosophy,12
+30,18,Chemical substance,https://en.wikipedia.org/wiki/Chemical_substance,reached_philosophy,11
+30,18,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+30,18,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+30,18,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+30,18,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+30,18,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+30,18,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+30,18,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+30,18,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+30,18,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+30,18,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+30,18,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+31,14,Radium and radon in the environment,https://en.wikipedia.org/wiki/Radium_and_radon_in_the_environment,reached_philosophy,14
+31,14,Radium,https://en.wikipedia.org/wiki/Radium,reached_philosophy,13
+31,14,Chemical element,https://en.wikipedia.org/wiki/Chemical_element,reached_philosophy,12
+31,14,Chemical substance,https://en.wikipedia.org/wiki/Chemical_substance,reached_philosophy,11
+31,14,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+31,14,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+31,14,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+31,14,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+31,14,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+31,14,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+31,14,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+31,14,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+31,14,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+31,14,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+31,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+32,14,Chedun railway station,https://en.wikipedia.org/wiki/Chedun_railway_station,reached_philosophy,14
+32,14,Jinshan railway,https://en.wikipedia.org/wiki/Jinshan_railway,reached_philosophy,13
+32,14,Commuter rail,https://en.wikipedia.org/wiki/Commuter_rail,reached_philosophy,12
+32,14,Passenger train,https://en.wikipedia.org/wiki/Passenger_train,reached_philosophy,11
+32,14,Train,https://en.wikipedia.org/wiki/Train,reached_philosophy,10
+32,14,Vehicle,https://en.wikipedia.org/wiki/Vehicle,reached_philosophy,9
+32,14,Machine,https://en.wikipedia.org/wiki/Machine,reached_philosophy,8
+32,14,Power (physics),https://en.wikipedia.org/wiki/Power_(physics),reached_philosophy,7
+32,14,Energy,https://en.wikipedia.org/wiki/Energy,reached_philosophy,6
+32,14,Physical quantity,https://en.wikipedia.org/wiki/Physical_quantity,reached_philosophy,5
+32,14,Quantification (science),https://en.wikipedia.org/wiki/Quantification_(science),reached_philosophy,4
+32,14,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+32,14,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+32,14,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+32,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+33,12,Phyllis Reynolds Naylor,https://en.wikipedia.org/wiki/Phyllis_Reynolds_Naylor,reached_philosophy,12
+33,12,Young adult fiction,https://en.wikipedia.org/wiki/Young_adult_fiction,reached_philosophy,11
+33,12,Dysfunctional family,https://en.wikipedia.org/wiki/Dysfunctional_family,reached_philosophy,10
+33,12,Family,https://en.wikipedia.org/wiki/Family,reached_philosophy,9
+33,12,Social group,https://en.wikipedia.org/wiki/Social_group,reached_philosophy,8
+33,12,Social science,https://en.wikipedia.org/wiki/Social_science,reached_philosophy,7
+33,12,Branches of science,https://en.wikipedia.org/wiki/Branches_of_science,reached_philosophy,6
+33,12,Science,https://en.wikipedia.org/wiki/Science,reached_philosophy,5
+33,12,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+33,12,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+33,12,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+33,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+33,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+34,19,"Cebirli, Evren","https://en.wikipedia.org/wiki/Cebirli,_Evren",reached_philosophy,19
+34,19,"Evren, Ankara","https://en.wikipedia.org/wiki/Evren,_Ankara",reached_philosophy,18
+34,19,Districts of Turkey,https://en.wikipedia.org/wiki/Districts_of_Turkey,reached_philosophy,17
+34,19,Provinces of Turkey,https://en.wikipedia.org/wiki/Provinces_of_Turkey,reached_philosophy,16
+34,19,Turkey,https://en.wikipedia.org/wiki/Turkey,reached_philosophy,15
+34,19,Anatolia,https://en.wikipedia.org/wiki/Anatolia,reached_philosophy,14
+34,19,West Asia,https://en.wikipedia.org/wiki/West_Asia,reached_philosophy,13
+34,19,Asia,https://en.wikipedia.org/wiki/Asia,reached_philosophy,12
+34,19,Continent,https://en.wikipedia.org/wiki/Continent,reached_philosophy,11
+34,19,Convention (norm),https://en.wikipedia.org/wiki/Convention_(norm),reached_philosophy,10
+34,19,Social norm,https://en.wikipedia.org/wiki/Social_norm,reached_philosophy,9
+34,19,Acceptance,https://en.wikipedia.org/wiki/Acceptance,reached_philosophy,8
+34,19,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+34,19,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+34,19,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+34,19,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+34,19,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+34,19,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+34,19,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+34,19,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+35,11,The Birthday Suit,https://en.wikipedia.org/wiki/The_Birthday_Suit,reached_philosophy,11
+35,11,Indie rock,https://en.wikipedia.org/wiki/Indie_rock,reached_philosophy,10
+35,11,Music subgenre,https://en.wikipedia.org/wiki/Music_subgenre,reached_philosophy,9
+35,11,Music,https://en.wikipedia.org/wiki/Music,reached_philosophy,8
+35,11,Sound,https://en.wikipedia.org/wiki/Sound,reached_philosophy,7
+35,11,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+35,11,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+35,11,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+35,11,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+35,11,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+35,11,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+35,11,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+36,14,Shayne Moseley,https://en.wikipedia.org/wiki/Shayne_Moseley,reached_philosophy,14
+36,14,Barbados,https://en.wikipedia.org/wiki/Barbados,reached_philosophy,13
+36,14,Island country,https://en.wikipedia.org/wiki/Island_country,reached_philosophy,12
+36,14,Country,https://en.wikipedia.org/wiki/Country,reached_philosophy,11
+36,14,Earth,https://en.wikipedia.org/wiki/Earth,reached_philosophy,10
+36,14,Planet,https://en.wikipedia.org/wiki/Planet,reached_philosophy,9
+36,14,Hydrostatic equilibrium,https://en.wikipedia.org/wiki/Hydrostatic_equilibrium,reached_philosophy,8
+36,14,Fluid mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,reached_philosophy,7
+36,14,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+36,14,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+36,14,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+36,14,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+36,14,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+36,14,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+36,14,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+37,13,Parvovirinae,https://en.wikipedia.org/wiki/Parvovirinae,reached_philosophy,13
+37,13,Viruses,https://en.wikipedia.org/wiki/Viruses,reached_philosophy,12
+37,13,Infectious agent,https://en.wikipedia.org/wiki/Infectious_agent,reached_philosophy,11
+37,13,Biology,https://en.wikipedia.org/wiki/Biology,reached_philosophy,10
+37,13,Scientific study,https://en.wikipedia.org/wiki/Scientific_study,reached_philosophy,9
+37,13,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+37,13,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+37,13,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+37,13,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+37,13,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+37,13,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+37,13,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+37,13,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+37,13,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+38,12,7 Naatkal,https://en.wikipedia.org/wiki/7_Naatkal,reached_philosophy,12
+38,12,Tamil language,https://en.wikipedia.org/wiki/Tamil_language,reached_philosophy,11
+38,12,Dravidian language,https://en.wikipedia.org/wiki/Dravidian_language,reached_philosophy,10
+38,12,Language family,https://en.wikipedia.org/wiki/Language_family,reached_philosophy,9
+38,12,Language,https://en.wikipedia.org/wiki/Language,reached_philosophy,8
+38,12,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+38,12,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+38,12,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+38,12,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+38,12,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+38,12,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+38,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+38,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+39,20,Rocket Propulsion Establishment,https://en.wikipedia.org/wiki/Rocket_Propulsion_Establishment,reached_philosophy,20
+39,20,"Westcott, Buckinghamshire","https://en.wikipedia.org/wiki/Westcott,_Buckinghamshire",reached_philosophy,19
+39,20,Civil parishes in England,https://en.wikipedia.org/wiki/Civil_parishes_in_England,reached_philosophy,18
+39,20,England,https://en.wikipedia.org/wiki/England,reached_philosophy,17
+39,20,Countries of the United Kingdom,https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom,reached_philosophy,16
+39,20,United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom,reached_philosophy,15
+39,20,Northwestern Europe,https://en.wikipedia.org/wiki/Northwestern_Europe,reached_philosophy,14
+39,20,Subregion,https://en.wikipedia.org/wiki/Subregion,reached_philosophy,13
+39,20,Region,https://en.wikipedia.org/wiki/Region,reached_philosophy,12
+39,20,Geography,https://en.wikipedia.org/wiki/Geography,reached_philosophy,11
+39,20,Earth,https://en.wikipedia.org/wiki/Earth,reached_philosophy,10
+39,20,Planet,https://en.wikipedia.org/wiki/Planet,reached_philosophy,9
+39,20,Hydrostatic equilibrium,https://en.wikipedia.org/wiki/Hydrostatic_equilibrium,reached_philosophy,8
+39,20,Fluid mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,reached_philosophy,7
+39,20,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+39,20,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+39,20,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+39,20,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+39,20,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+39,20,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+39,20,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+40,7,Giovanni Maria Luffoli,https://en.wikipedia.org/wiki/Giovanni_Maria_Luffoli,reached_philosophy,7
+40,7,Baroque art,https://en.wikipedia.org/wiki/Baroque_art,reached_philosophy,6
+40,7,Style (visual arts),https://en.wikipedia.org/wiki/Style_(visual_arts),reached_philosophy,5
+40,7,Visual arts,https://en.wikipedia.org/wiki/Visual_arts,reached_philosophy,4
+40,7,Art form,https://en.wikipedia.org/wiki/Art_form,reached_philosophy,3
+40,7,Creativity,https://en.wikipedia.org/wiki/Creativity,reached_philosophy,2
+40,7,Idea,https://en.wikipedia.org/wiki/Idea,reached_philosophy,1
+40,7,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+41,7,Humorous Phases of Funny Faces,https://en.wikipedia.org/wiki/Humorous_Phases_of_Funny_Faces,reached_philosophy,7
+41,7,Short film,https://en.wikipedia.org/wiki/Short_film,reached_philosophy,6
+41,7,Film,https://en.wikipedia.org/wiki/Film,reached_philosophy,5
+41,7,Visual arts,https://en.wikipedia.org/wiki/Visual_arts,reached_philosophy,4
+41,7,Art form,https://en.wikipedia.org/wiki/Art_form,reached_philosophy,3
+41,7,Creativity,https://en.wikipedia.org/wiki/Creativity,reached_philosophy,2
+41,7,Idea,https://en.wikipedia.org/wiki/Idea,reached_philosophy,1
+41,7,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+42,22,"Church of Our Lady, Melsele","https://en.wikipedia.org/wiki/Church_of_Our_Lady,_Melsele",reached_philosophy,22
+42,22,Roman Catholic Church,https://en.wikipedia.org/wiki/Roman_Catholic_Church,reached_philosophy,21
+42,22,List of Christian denominations by number of members,https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members,reached_philosophy,20
+42,22,List of Christian denominations,https://en.wikipedia.org/wiki/List_of_Christian_denominations,reached_philosophy,19
+42,22,Christian denomination,https://en.wikipedia.org/wiki/Christian_denomination,reached_philosophy,18
+42,22,Religion,https://en.wikipedia.org/wiki/Religion,reached_philosophy,17
+42,22,Social system,https://en.wikipedia.org/wiki/Social_system,reached_philosophy,16
+42,22,Sociology,https://en.wikipedia.org/wiki/Sociology,reached_philosophy,15
+42,22,Human,https://en.wikipedia.org/wiki/Human,reached_philosophy,14
+42,22,Species,https://en.wikipedia.org/wiki/Species,reached_philosophy,13
+42,22,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+42,22,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+42,22,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+42,22,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+42,22,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+42,22,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+42,22,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+42,22,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+42,22,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+42,22,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+42,22,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+42,22,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+42,22,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+43,10,Jean-Claude Risset,https://en.wikipedia.org/wiki/Jean-Claude_Risset,reached_philosophy,10
+43,10,Composer,https://en.wikipedia.org/wiki/Composer,reached_philosophy,9
+43,10,Music,https://en.wikipedia.org/wiki/Music,reached_philosophy,8
+43,10,Sound,https://en.wikipedia.org/wiki/Sound,reached_philosophy,7
+43,10,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+43,10,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+43,10,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+43,10,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+43,10,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+43,10,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+43,10,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+44,15,"Winden, Rhein-Lahn","https://en.wikipedia.org/wiki/Winden,_Rhein-Lahn",reached_philosophy,15
+44,15,Municipalities of Germany,https://en.wikipedia.org/wiki/Municipalities_of_Germany,reached_philosophy,14
+44,15,Municipality,https://en.wikipedia.org/wiki/Municipality,reached_philosophy,13
+44,15,Administrative division,https://en.wikipedia.org/wiki/Administrative_division,reached_philosophy,12
+44,15,Sovereign state,https://en.wikipedia.org/wiki/Sovereign_state,reached_philosophy,11
+44,15,State (polity),https://en.wikipedia.org/wiki/State_(polity),reached_philosophy,10
+44,15,Politics,https://en.wikipedia.org/wiki/Politics,reached_philosophy,9
+44,15,Decision-making,https://en.wikipedia.org/wiki/Decision-making,reached_philosophy,8
+44,15,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+44,15,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+44,15,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+44,15,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+44,15,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+44,15,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+44,15,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+44,15,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+45,15,Anprolene,https://en.wikipedia.org/wiki/Anprolene,reached_philosophy,15
+45,15,Ethylene oxide,https://en.wikipedia.org/wiki/Ethylene_oxide,reached_philosophy,14
+45,15,Organic compound,https://en.wikipedia.org/wiki/Organic_compound,reached_philosophy,13
+45,15,Chemical compound,https://en.wikipedia.org/wiki/Chemical_compound,reached_philosophy,12
+45,15,Chemical substance,https://en.wikipedia.org/wiki/Chemical_substance,reached_philosophy,11
+45,15,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+45,15,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+45,15,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+45,15,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+45,15,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+45,15,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+45,15,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+45,15,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+45,15,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+45,15,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+45,15,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+46,12,Jersey Surf Drum and Bugle Corps,https://en.wikipedia.org/wiki/Jersey_Surf_Drum_and_Bugle_Corps,reached_philosophy,12
+46,12,Drum and bugle corps (modern),https://en.wikipedia.org/wiki/Drum_and_bugle_corps_(modern),reached_philosophy,11
+46,12,Brass instrument,https://en.wikipedia.org/wiki/Brass_instrument,reached_philosophy,10
+46,12,Musical instrument,https://en.wikipedia.org/wiki/Musical_instrument,reached_philosophy,9
+46,12,Music,https://en.wikipedia.org/wiki/Music,reached_philosophy,8
+46,12,Sound,https://en.wikipedia.org/wiki/Sound,reached_philosophy,7
+46,12,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+46,12,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+46,12,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+46,12,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+46,12,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+46,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+46,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+47,16,Two Pesos,https://en.wikipedia.org/wiki/Two_Pesos,reached_philosophy,16
+47,16,Tex-Mex cuisine,https://en.wikipedia.org/wiki/Tex-Mex_cuisine,reached_philosophy,15
+47,16,American cuisine,https://en.wikipedia.org/wiki/American_cuisine,reached_philosophy,14
+47,16,United States,https://en.wikipedia.org/wiki/United_States,reached_philosophy,13
+47,16,North America,https://en.wikipedia.org/wiki/North_America,reached_philosophy,12
+47,16,Continent,https://en.wikipedia.org/wiki/Continent,reached_philosophy,11
+47,16,Convention (norm),https://en.wikipedia.org/wiki/Convention_(norm),reached_philosophy,10
+47,16,Social norm,https://en.wikipedia.org/wiki/Social_norm,reached_philosophy,9
+47,16,Acceptance,https://en.wikipedia.org/wiki/Acceptance,reached_philosophy,8
+47,16,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+47,16,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+47,16,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+47,16,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+47,16,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+47,16,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+47,16,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+47,16,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+48,12,Godavari (2006 film),https://en.wikipedia.org/wiki/Godavari_(2006_film),reached_philosophy,12
+48,12,Telugu language,https://en.wikipedia.org/wiki/Telugu_language,reached_philosophy,11
+48,12,Dravidian languages,https://en.wikipedia.org/wiki/Dravidian_languages,reached_philosophy,10
+48,12,Language family,https://en.wikipedia.org/wiki/Language_family,reached_philosophy,9
+48,12,Language,https://en.wikipedia.org/wiki/Language,reached_philosophy,8
+48,12,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+48,12,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+48,12,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+48,12,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+48,12,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+48,12,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+48,12,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+48,12,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+49,8,NGC 4596,https://en.wikipedia.org/wiki/NGC_4596,reached_philosophy,8
+49,8,Barred lenticular galaxy,https://en.wikipedia.org/wiki/Barred_lenticular_galaxy,reached_philosophy,7
+49,8,Galaxy morphological classification,https://en.wikipedia.org/wiki/Galaxy_morphological_classification,reached_philosophy,6
+49,8,Astronomer,https://en.wikipedia.org/wiki/Astronomer,reached_philosophy,5
+49,8,Scientist,https://en.wikipedia.org/wiki/Scientist,reached_philosophy,4
+49,8,Scientific method,https://en.wikipedia.org/wiki/Scientific_method,reached_philosophy,3
+49,8,Empirical evidence,https://en.wikipedia.org/wiki/Empirical_evidence,reached_philosophy,2
+49,8,Evidence,https://en.wikipedia.org/wiki/Evidence,reached_philosophy,1
+49,8,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+50,11,Fausto Fawcett e os Rob%C3%B4s Ef%C3%AAmeros,https://en.wikipedia.org/wiki/Fausto_Fawcett_e_os_Rob%C3%B4s_Ef%C3%AAmeros,reached_philosophy,11
+50,11,Brazil,https://en.wikipedia.org/wiki/Brazil,reached_philosophy,10
+50,11,South America,https://en.wikipedia.org/wiki/South_America,reached_philosophy,9
+50,11,Western Hemisphere,https://en.wikipedia.org/wiki/Western_Hemisphere,reached_philosophy,8
+50,11,West,https://en.wikipedia.org/wiki/West,reached_philosophy,7
+50,11,Points of the compass,https://en.wikipedia.org/wiki/Points_of_the_compass,reached_philosophy,6
+50,11,Radius,https://en.wikipedia.org/wiki/Radius,reached_philosophy,5
+50,11,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+50,11,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+50,11,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+50,11,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+50,11,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+51,4,"Simariya, Panna","https://en.wikipedia.org/wiki/Simariya,_Panna",loop,n/a
+51,4,Tehsil,https://en.wikipedia.org/wiki/Tehsil,loop,n/a
+51,4,List of mandals in Andhra Pradesh,https://en.wikipedia.org/wiki/List_of_mandals_in_Andhra_Pradesh,loop,n/a
+51,4,Mandal,https://en.wikipedia.org/wiki/Mandal,loop,n/a
+51,4,List of mandals in Andhra Pradesh,https://en.wikipedia.org/wiki/List_of_mandals_in_Andhra_Pradesh,loop,n/a
+52,8,KStars,https://en.wikipedia.org/wiki/KStars,reached_philosophy,8
+52,8,Free and open-source software,https://en.wikipedia.org/wiki/Free_and_open-source_software,reached_philosophy,7
+52,8,Software,https://en.wikipedia.org/wiki/Software,reached_philosophy,6
+52,8,Computer program,https://en.wikipedia.org/wiki/Computer_program,reached_philosophy,5
+52,8,Sequence,https://en.wikipedia.org/wiki/Sequence,reached_philosophy,4
+52,8,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+52,8,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+52,8,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+52,8,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+53,15,Bad Gleichenberg,https://en.wikipedia.org/wiki/Bad_Gleichenberg,reached_philosophy,15
+53,15,S%C3%BCdoststeiermark District,https://en.wikipedia.org/wiki/S%C3%BCdoststeiermark_District,reached_philosophy,14
+53,15,Districts of Austria,https://en.wikipedia.org/wiki/Districts_of_Austria,reached_philosophy,13
+53,15,Executive (government),https://en.wikipedia.org/wiki/Executive_(government),reached_philosophy,12
+53,15,Branch of government,https://en.wikipedia.org/wiki/Branch_of_government,reached_philosophy,11
+53,15,State (polity),https://en.wikipedia.org/wiki/State_(polity),reached_philosophy,10
+53,15,Politics,https://en.wikipedia.org/wiki/Politics,reached_philosophy,9
+53,15,Decision-making,https://en.wikipedia.org/wiki/Decision-making,reached_philosophy,8
+53,15,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+53,15,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+53,15,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+53,15,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+53,15,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+53,15,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+53,15,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+53,15,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+54,23,Chokling Tersar,https://en.wikipedia.org/wiki/Chokling_Tersar,reached_philosophy,23
+54,23,Terma (Buddhism),https://en.wikipedia.org/wiki/Terma_(Buddhism),reached_philosophy,22
+54,23,Vajrayana,https://en.wikipedia.org/wiki/Vajrayana,reached_philosophy,21
+54,23,Mah%C4%81y%C4%81na Buddhism,https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81na_Buddhism,reached_philosophy,20
+54,23,Buddhist,https://en.wikipedia.org/wiki/Buddhist,reached_philosophy,19
+54,23,Indian religion,https://en.wikipedia.org/wiki/Indian_religion,reached_philosophy,18
+54,23,Religion,https://en.wikipedia.org/wiki/Religion,reached_philosophy,17
+54,23,Social system,https://en.wikipedia.org/wiki/Social_system,reached_philosophy,16
+54,23,Sociology,https://en.wikipedia.org/wiki/Sociology,reached_philosophy,15
+54,23,Human,https://en.wikipedia.org/wiki/Human,reached_philosophy,14
+54,23,Species,https://en.wikipedia.org/wiki/Species,reached_philosophy,13
+54,23,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+54,23,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+54,23,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+54,23,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+54,23,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+54,23,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+54,23,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+54,23,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+54,23,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+54,23,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+54,23,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+54,23,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+54,23,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+55,23,1923 Central Michigan Normalites football team,https://en.wikipedia.org/wiki/1923_Central_Michigan_Normalites_football_team,reached_philosophy,23
+55,23,Central Michigan University,https://en.wikipedia.org/wiki/Central_Michigan_University,reached_philosophy,22
+55,23,Public university,https://en.wikipedia.org/wiki/Public_university,reached_philosophy,21
+55,23,State ownership,https://en.wikipedia.org/wiki/State_ownership,reached_philosophy,20
+55,23,Industry (economics),https://en.wikipedia.org/wiki/Industry_(economics),reached_philosophy,19
+55,23,Microeconomics,https://en.wikipedia.org/wiki/Microeconomics,reached_philosophy,18
+55,23,Economics,https://en.wikipedia.org/wiki/Economics,reached_philosophy,17
+55,23,Behavioral science,https://en.wikipedia.org/wiki/Behavioral_science,reached_philosophy,16
+55,23,Human behavior,https://en.wikipedia.org/wiki/Human_behavior,reached_philosophy,15
+55,23,Human,https://en.wikipedia.org/wiki/Human,reached_philosophy,14
+55,23,Species,https://en.wikipedia.org/wiki/Species,reached_philosophy,13
+55,23,Organism,https://en.wikipedia.org/wiki/Organism,reached_philosophy,12
+55,23,Life,https://en.wikipedia.org/wiki/Life,reached_philosophy,11
+55,23,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+55,23,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+55,23,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+55,23,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+55,23,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+55,23,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+55,23,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+55,23,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+55,23,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+55,23,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+55,23,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+56,14,Sameer Wankhede,https://en.wikipedia.org/wiki/Sameer_Wankhede,reached_philosophy,14
+56,14,Indian Revenue Service,https://en.wikipedia.org/wiki/Indian_Revenue_Service,reached_philosophy,13
+56,14,Civil service,https://en.wikipedia.org/wiki/Civil_service,reached_philosophy,12
+56,14,Government,https://en.wikipedia.org/wiki/Government,reached_philosophy,11
+56,14,State (polity),https://en.wikipedia.org/wiki/State_(polity),reached_philosophy,10
+56,14,Politics,https://en.wikipedia.org/wiki/Politics,reached_philosophy,9
+56,14,Decision-making,https://en.wikipedia.org/wiki/Decision-making,reached_philosophy,8
+56,14,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+56,14,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+56,14,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+56,14,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+56,14,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+56,14,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+56,14,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+56,14,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+57,7,Clara Maass,https://en.wikipedia.org/wiki/Clara_Maass,reached_philosophy,7
+57,7,Nurse,https://en.wikipedia.org/wiki/Nurse,reached_philosophy,6
+57,7,Health care,https://en.wikipedia.org/wiki/Health_care,reached_philosophy,5
+57,7,Health,https://en.wikipedia.org/wiki/Health,reached_philosophy,4
+57,7,Well-being,https://en.wikipedia.org/wiki/Well-being,reached_philosophy,3
+57,7,Intrinsic value (ethics),https://en.wikipedia.org/wiki/Intrinsic_value_(ethics),reached_philosophy,2
+57,7,Ethics,https://en.wikipedia.org/wiki/Ethics,reached_philosophy,1
+57,7,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+58,11,Kay (title),https://en.wikipedia.org/wiki/Kay_(title),reached_philosophy,11
+58,11,Persian mythology,https://en.wikipedia.org/wiki/Persian_mythology,reached_philosophy,10
+58,11,Myths,https://en.wikipedia.org/wiki/Myths,reached_philosophy,9
+58,11,Genre,https://en.wikipedia.org/wiki/Genre,reached_philosophy,8
+58,11,Communication,https://en.wikipedia.org/wiki/Communication,reached_philosophy,7
+58,11,Information,https://en.wikipedia.org/wiki/Information,reached_philosophy,6
+58,11,Abstraction,https://en.wikipedia.org/wiki/Abstraction,reached_philosophy,5
+58,11,Rule of inference,https://en.wikipedia.org/wiki/Rule_of_inference,reached_philosophy,4
+58,11,Premise,https://en.wikipedia.org/wiki/Premise,reached_philosophy,3
+58,11,Proposition,https://en.wikipedia.org/wiki/Proposition,reached_philosophy,2
+58,11,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+58,11,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+59,17,"Church Point, Louisiana","https://en.wikipedia.org/wiki/Church_Point,_Louisiana",reached_philosophy,17
+59,17,"Acadia Parish, Louisiana","https://en.wikipedia.org/wiki/Acadia_Parish,_Louisiana",reached_philosophy,16
+59,17,List of parishes in Louisiana,https://en.wikipedia.org/wiki/List_of_parishes_in_Louisiana,reached_philosophy,15
+59,17,U.S. state,https://en.wikipedia.org/wiki/U.S._state,reached_philosophy,14
+59,17,United States,https://en.wikipedia.org/wiki/United_States,reached_philosophy,13
+59,17,North America,https://en.wikipedia.org/wiki/North_America,reached_philosophy,12
+59,17,Continent,https://en.wikipedia.org/wiki/Continent,reached_philosophy,11
+59,17,Convention (norm),https://en.wikipedia.org/wiki/Convention_(norm),reached_philosophy,10
+59,17,Social norm,https://en.wikipedia.org/wiki/Social_norm,reached_philosophy,9
+59,17,Acceptance,https://en.wikipedia.org/wiki/Acceptance,reached_philosophy,8
+59,17,Psychology,https://en.wikipedia.org/wiki/Psychology,reached_philosophy,7
+59,17,Mind,https://en.wikipedia.org/wiki/Mind,reached_philosophy,6
+59,17,Thought,https://en.wikipedia.org/wiki/Thought,reached_philosophy,5
+59,17,Cognition,https://en.wikipedia.org/wiki/Cognition,reached_philosophy,4
+59,17,Knowledge,https://en.wikipedia.org/wiki/Knowledge,reached_philosophy,3
+59,17,Declarative knowledge,https://en.wikipedia.org/wiki/Declarative_knowledge,reached_philosophy,2
+59,17,Awareness,https://en.wikipedia.org/wiki/Awareness,reached_philosophy,1
+59,17,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0
+60,16,Hindustan Ambassador,https://en.wikipedia.org/wiki/Hindustan_Ambassador,reached_philosophy,16
+60,16,India,https://en.wikipedia.org/wiki/India,reached_philosophy,15
+60,16,South Asia,https://en.wikipedia.org/wiki/South_Asia,reached_philosophy,14
+60,16,Subregion#Asia,https://en.wikipedia.org/wiki/Subregion#Asia,reached_philosophy,13
+60,16,Region,https://en.wikipedia.org/wiki/Region,reached_philosophy,12
+60,16,Geography,https://en.wikipedia.org/wiki/Geography,reached_philosophy,11
+60,16,Earth,https://en.wikipedia.org/wiki/Earth,reached_philosophy,10
+60,16,Planet,https://en.wikipedia.org/wiki/Planet,reached_philosophy,9
+60,16,Hydrostatic equilibrium,https://en.wikipedia.org/wiki/Hydrostatic_equilibrium,reached_philosophy,8
+60,16,Fluid mechanics,https://en.wikipedia.org/wiki/Fluid_mechanics,reached_philosophy,7
+60,16,Physics,https://en.wikipedia.org/wiki/Physics,reached_philosophy,6
+60,16,Scientific,https://en.wikipedia.org/wiki/Scientific,reached_philosophy,5
+60,16,Hypotheses,https://en.wikipedia.org/wiki/Hypotheses,reached_philosophy,4
+60,16,Explanation,https://en.wikipedia.org/wiki/Explanation,reached_philosophy,3
+60,16,Statement (logic),https://en.wikipedia.org/wiki/Statement_(logic),reached_philosophy,2
+60,16,Philosophy of language,https://en.wikipedia.org/wiki/Philosophy_of_language,reached_philosophy,1
+60,16,Philosophical,https://en.wikipedia.org/wiki/Philosophical,reached_philosophy,0
+61,17,Amy Namowitz Worthen,https://en.wikipedia.org/wiki/Amy_Namowitz_Worthen,reached_philosophy,17
+61,17,Engraving,https://en.wikipedia.org/wiki/Engraving,reached_philosophy,16
+61,17,Burin (engraving),https://en.wikipedia.org/wiki/Burin_(engraving),reached_philosophy,15
+61,17,Steel,https://en.wikipedia.org/wiki/Steel,reached_philosophy,14
+61,17,Alloy,https://en.wikipedia.org/wiki/Alloy,reached_philosophy,13
+61,17,Mixture,https://en.wikipedia.org/wiki/Mixture,reached_philosophy,12
+61,17,Chemistry,https://en.wikipedia.org/wiki/Chemistry,reached_philosophy,11
+61,17,Matter,https://en.wikipedia.org/wiki/Matter,reached_philosophy,10
+61,17,Classical physics,https://en.wikipedia.org/wiki/Classical_physics,reached_philosophy,9
+61,17,Scientific theory,https://en.wikipedia.org/wiki/Scientific_theory,reached_philosophy,8
+61,17,Universe,https://en.wikipedia.org/wiki/Universe,reached_philosophy,7
+61,17,Space,https://en.wikipedia.org/wiki/Space,reached_philosophy,6
+61,17,Three-dimensional space,https://en.wikipedia.org/wiki/Three-dimensional_space,reached_philosophy,5
+61,17,Geometry,https://en.wikipedia.org/wiki/Geometry,reached_philosophy,4
+61,17,Mathematics,https://en.wikipedia.org/wiki/Mathematics,reached_philosophy,3
+61,17,Mathematical theory,https://en.wikipedia.org/wiki/Mathematical_theory,reached_philosophy,2
+61,17,Rationalism,https://en.wikipedia.org/wiki/Rationalism,reached_philosophy,1
+61,17,Philosophy,https://en.wikipedia.org/wiki/Philosophy,reached_philosophy,0

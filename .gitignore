@@ -1,1 +1,7 @@
-wikipedia-philosophy-game/
+orig/
+venv/
+.env
+wikidata_vitals.py
+__pycache__
+AAA-orig/
+.gitignore
