@@ -5,3 +5,4 @@ wikidata_vitals.py
 __pycache__
 AAA-orig/
 .gitignore
+.DS_Store
