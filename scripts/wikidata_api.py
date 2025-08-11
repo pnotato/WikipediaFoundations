@@ -1,0 +1,1 @@
+# helper function for collecting data from the api.
