@@ -9,13 +9,6 @@ RANDOM = "https://en.wikipedia.org/wiki/Special:Random"
 PHILOSOPHY = "https://en.wikipedia.org/wiki/Philosophy"
 PHILOSOPHICAL = "https://en.wikipedia.org/wiki/Philosophical"
 
-# Titles to skip as first links (normalized to lowercase, no fragment)
-SKIP_TITLES = {
-    "ancient greek",
-    "ancient greek language",
-    "irish language"
-}
-
 def _norm_title_from_href(href: str) -> str:
     """Return a normalized page title extracted from a /wiki/... href.
     Lowercase, spaces, no fragment.
