@@ -6,3 +6,18 @@ Wikipedia also maintains  a user-reviewed, albeit incomplete list of “Vital Ar
 
 In this project, I aim to use this “Path to Philosophy metric” as a basis alongside the vital score to examine whether or not an article being closer to Philosophy is associated with a higher perceived importance, and therefore more foundational. 
 
+### Usage
+
+git clone the repository
+```
+git clone https://github.com/pnotato/WikipediaFoundations.git
+cd WikipediaFoundations
+```
+
+Install the Python packages
+```
+pip install -r requirements.txt
+```
+
+- Scripts used to scrape Wikipedia and gather data from the API are located under ```/scripts```
+- Scripts used to generate plots and compute p-values can be found under ```/analysis```
